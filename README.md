@@ -19,7 +19,7 @@
 ## Sistema operacional
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-[![macOS](https://img.shields.io/badge/macOS-blue-000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 
 ## Banco de dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
