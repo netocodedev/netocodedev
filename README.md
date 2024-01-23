@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=figma)
 
 ## Cloud Computing Services
-![AWS](https://img.shields.io/badge/AWS-000.svg-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
