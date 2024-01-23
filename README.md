@@ -14,7 +14,7 @@
 
 ## Stack de desenvolvimento
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-[![Android](https://img.shields.io/badge/Android-4CAF50?style=flat-square)](https://developer.android.com/)
+[![Android](https://img.shields.io/badge/Android-4CAF50?style=for-the-badge)](https://developer.android.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 
