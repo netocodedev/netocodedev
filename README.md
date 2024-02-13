@@ -12,6 +12,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Compose Multiplataforma](https://img.shields.io/badge/Compose_Multiplataforma-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/compose/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
